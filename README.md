@@ -1,6 +1,6 @@
 # PulltorefreshListview
 
-##  1. ÔÚModuleÏÂµÄbuild.gradleÖĞÌí¼ÓÒÀÀµ
+##  1. åœ¨Moduleä¸‹çš„build.gradleä¸­æ·»åŠ ä¾èµ–
 ### Step 1. Add the JitPack repository to your build file
     allprojects {
 		repositories {
@@ -13,7 +13,7 @@
 	        compile 'com.github.Tudie:PulltorefreshListview:v1.0.0'
 	}
 
-##  2. ÔÚ²¼¾ÖÎÄ¼şÖĞÌí¼ÓPullToRefreshRecyclerView¿Ø¼ş
+##  2. åœ¨å¸ƒå±€æ–‡ä»¶ä¸­æ·»åŠ PullToRefreshRecyclerViewæ§ä»¶
     <com.handmark.pulltorefresh.library.PullToRefreshListView
         android:id="@+id/pullToRefreshRV"
         android:layout_width="368dp"
@@ -24,20 +24,20 @@
         pulltorefresh:ptrDrawableEnd="@drawable/pulltorefresh_head_indicate"
         pulltorefresh:ptrDrawableStart="@drawable/pulltorefresh_head_indicate" />
 
-##  3. ³õÊ¼»¯PullToRefreshRecyclerView²¢ÉèÖÃÊôĞÔºÍ»Øµ÷
-    //ÉèÖÃÊÇ·ñ¿ªÆôÏÂÀ­Ë¢ĞÂÉÏÀ­¼ÓÔØ¸ü¶à
+##  3. åˆå§‹åŒ–PullToRefreshRecyclerViewå¹¶è®¾ç½®å±æ€§å’Œå›è°ƒ
+    //è®¾ç½®æ˜¯å¦å¼€å¯ä¸‹æ‹‰åˆ·æ–°ä¸Šæ‹‰åŠ è½½æ›´å¤š
      pullToRefreshRV.setMode(PullToRefreshBase.Mode.BOTH);
-    //ÉèÖÃË¢ĞÂ»Øµ÷
+    //è®¾ç½®åˆ·æ–°å›è°ƒ
      pullToRefreshRV.setOnRefreshListener(this);
 
-##  4.´¦ÀíË¢ĞÂ¼ÓÔØÂß¼­
+##  4.å¤„ç†åˆ·æ–°åŠ è½½é€»è¾‘
     @Override
     public void onRefresh() {
         pullToRefreshRV.postDelayed(new Runnable() {
             @Override
             public void run() {
                 pullToRefreshRV.setRefreshComplete();
-                //Ä£ÄâÃ»ÓĞÊı¾İµÄÇé¿ö
+                //æ¨¡æ‹Ÿæ²¡æœ‰æ•°æ®çš„æƒ…å†µ
                 data.clear();
                 adapter.notifyDataSetChanged();
             }
@@ -50,7 +50,7 @@
             @Override
             public void run() {
                 pullToRefreshRV.setLoadMoreComplete();
-                //Ä£Äâ¼ÓÔØÊı¾İµÄÇé¿ö
+                //æ¨¡æ‹ŸåŠ è½½æ•°æ®çš„æƒ…å†µ
                 int size = data.size();
                 for (int i = size; i < size + 4; i++) {
                     data.add("" + i + i + i + i);
