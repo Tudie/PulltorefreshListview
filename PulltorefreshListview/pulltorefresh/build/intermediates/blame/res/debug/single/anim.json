@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\3e3ab89bdba00a78173c98156df53df4a1e10356\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\3e3ab89bdba00a78173c98156df53df4a1e10356\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\3e3ab89bdba00a78173c98156df53df4a1e10356\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\3e3ab89bdba00a78173c98156df53df4a1e10356\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Desktop\\Project\\PulltorefreshListviewDemo\\PulltorefreshListview\\pulltorefresh\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\SSSD01\\.android\\build-cache\\7a2e6d4014c6341e55fc007482dc929be5171553\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

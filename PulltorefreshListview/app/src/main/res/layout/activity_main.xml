@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:pulltorefresh="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tudie.com.pulltorefreshlistview.MainActivity">
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pullToRefreshRV"
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        ptr:ptrAnimationStyle="flip"
+        pulltorefresh:ptrAnimationStyle="flip"
+        pulltorefresh:ptrDrawable="@drawable/xlistview_load_progressbg"
+        pulltorefresh:ptrDrawableEnd="@drawable/pulltorefresh_head_indicate"
+        pulltorefresh:ptrDrawableStart="@drawable/pulltorefresh_head_indicate"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+
+</android.support.constraint.ConstraintLayout>
